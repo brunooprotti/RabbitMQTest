@@ -1,6 +1,13 @@
 @RabbitMQTest.API_HostAddress = http://localhost:5081
 
-GET {{RabbitMQTest.API_HostAddress}}/weatherforecast/
+POST {{RabbitMQTest.API_HostAddress}}/rabbitmq
+Content-Type: application/json
 Accept: application/json
+
+{
+    "studentName": "Bruno Protti",
+    "age": 26,
+    "courseTitle": "RabbitMQ testing"
+}
 
 ###

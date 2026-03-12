@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/RabbitMQTest.API/RabbitMQTest.API.csproj" />
+    <Project Path="src/RabbitMQTest.Worker/RabbitMQTest.Worker.csproj" />
   </Folder>
 </Solution>
