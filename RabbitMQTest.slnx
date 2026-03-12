@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RabbitMQTest.API/RabbitMQTest.API.csproj" />
+  </Folder>
+</Solution>
